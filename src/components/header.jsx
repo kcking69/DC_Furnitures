@@ -14,7 +14,10 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='#features'
+                  href='https://wa.link/6hhedu'
+                  target='_blank'
+                  rel='noopener noreferrer'
+                  aria-label='Order Now'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Order Now
