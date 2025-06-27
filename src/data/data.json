@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Furniture\n You'll Love",
+    "title": "Find Your Dream Furniture",
     "paragraph": "Transform your living space into a sanctuary\n of style and comfort."
   },
   "About": {
@@ -147,22 +147,22 @@
   "Features": [
     {
       "icon": "fa fa-diamond",
-      "title": "Unrivaled Quality & Craftsmanship",
-      "text": "Discover furniture meticulously crafted from premium imported materials."
+      "title": "Quality Craftsmanship",
+      "text": "Furniture meticulously crafted from premium imported materials."
     },
     {
       "icon": "fa fa-globe",
-      "title": "Globally Sourced, Curated Selection",
-      "text": "Explore a unique collection handpicked from leading manufacturers worldwide. "
+      "title": "Globally Sourced",
+      "text": "A collection handpicked by manufacturers worldwide. "
     },
     {
       "icon": "fa fa-users",
-      "title": "Personalized Design Consultation",
-      "text": "Our team offers guidance to help you find the perfect furniture that complements your lifestyle. "
+      "title": "Design Consultation",
+      "text": "Guidance to help you find the furniture that complements your lifestyle. "
     },
     {
       "icon": "fa fa-truck",
-      "title": "Seamless Delivery & Installation",
+      "title": "Seamless Delivery",
       "text": "Enjoy a worry-free experience from our showroom to your home. "
     }
   ]
