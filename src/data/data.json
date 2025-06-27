@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Furniture\n You'll Love",
+    "paragraph": "Transform your living space into a sanctuary\n of style and comfort."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Welcome to DEI CONSILIUM Furnitures, your distinguished source for exquisite imported furniture in Lagos, Nigeria. We believe that your living and working environments are more than just spaces; they are canvases for your life's story, demanding pieces that resonate with elegance, comfort, and enduring quality.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Exquisite Imported Collection",
+      "Uncompromising Quality",
+      "Sophisticated Design",
+      "Personalized Service"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Seamless Delivery and Setup",
+      "Value-Driven Investment",
+      "Customer-Centric Approach",
+      "Transformative Impact"
     ]
   },
   "Gallery": [
@@ -100,33 +100,18 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Our living room has been completely transformed! The imported sofa we bought from DEI CONSILIUM Furnitures is not only stunning but incredibly comfortable. The quality is expectional, and their team made the whole process effortless. Highly recommend! \"",
+      "name": "Aisha M"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Finding the perfect office furniture was a breeze with DEI CONSILIUM Furnitures. Their unique selection and attention to detail helped us create a workspace that's both productive and stylish. Truly top-tier furniture and service in Lagos\"",
+      "name": "Kunle O."
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"We absolutely love our new dining set! It’s elegant, sturdy,anld instantly became the heart of our home. DEI CONSILIUM Furnitures delivered exactly what we needed, on time and with great care. Fantastic quality and a beautiful addition.\"",
+      "name": "Blessing E."
     }
   ],
   "Team": [
@@ -152,33 +137,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "152 Olojo Drive, Ojo, Lagos 102101, Lagos ",
+    "phone": "+234 813 731 7141",
+    "email": "izuchukwujamesebere@gmail.com",
+    "facebook": "https://www.facebook.com/izuchukwu.ebere.12",
+    "instagram": "https://www.instagram.com",
+    "whatsapp": "https://wa.link/6hhedu"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-diamond",
+      "title": "Unrivaled Quality & Craftsmanship",
+      "text": "Discover furniture meticulously crafted from premium imported materials."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-globe",
+      "title": "Globally Sourced, Curated Selection",
+      "text": "Explore a unique collection handpicked from leading manufacturers worldwide. "
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-users",
+      "title": "Personalized Design Consultation",
+      "text": "Our team offers guidance to help you find the perfect furniture that complements your lifestyle. "
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-truck",
+      "title": "Seamless Delivery & Installation",
+      "text": "Enjoy a worry-free experience from our showroom to your home. "
     }
   ]
 }
