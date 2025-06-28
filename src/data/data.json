@@ -20,49 +20,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Sofas & Couches",
+      "largeImage": "img/portfolio/01-large.webp",
+      "smallImage": "img/portfolio/01-small.webp"
     },
     {
-      "title": "Project Title",
+      "title": "Bedroom Furniture",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/portfolio/02-small.webp"
     },
     {
-      "title": "Project Title",
+      "title": "Outdoor Chairs",
       "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "smallImage": "img/portfolio/03-small.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Tables",
+      "largeImage": "img/portfolio/04-large.webp",
+      "smallImage": "img/portfolio/04-small.webp"
     },
     {
-      "title": "Project Title",
+      "title": "Dining Sets",
       "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "smallImage": "img/portfolio/05-small.webp"
     },
     {
-      "title": "Project Title",
+      "title": "Office Furniture",
       "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "smallImage": "img/portfolio/06-small.webp"
     },
     {
-      "title": "Project Title",
+      "title": "Restaurant Furniture",
       "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "smallImage": "img/portfolio/07-small.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Home Bar Furniture",
+      "largeImage": "img/portfolio/08-large.webp",
+      "smallImage": "img/portfolio/08-small.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Kitchen Furniture",
+      "largeImage": "img/portfolio/09-large.jpeg",
+      "smallImage": "img/portfolio/09-small.webp"
     }
   ],
   "Services": [
